@@ -1,0 +1,31 @@
+{
+  "dailyWeatherDetails": [
+    {
+      "Date": "2023-05-05T00:00:00",
+      "MaxTemperatureInCelsius": 14.7,
+      "MaxTemperatureInFarenheit": 58.46,
+      "MinTemperatureInCelsius": 5.1,
+      "MinTemperatureInFarenheit": 41.18,
+      "MaxSnowfall": 0,
+      "MinSnowfall": 0
+    },
+    {
+      "Date": "2023-05-04T00:00:00",
+      "MaxTemperatureInCelsius": 16.6,
+      "MaxTemperatureInFarenheit": 61.88,
+      "MinTemperatureInCelsius": 5.4,
+      "MinTemperatureInFarenheit": 41.72,
+      "MaxSnowfall": 0,
+      "MinSnowfall": 0
+    },
+    {
+      "Date": "2023-05-03T00:00:00",
+      "MaxTemperatureInCelsius": 12.8,
+      "MaxTemperatureInFarenheit": 55.040000000000006,
+      "MinTemperatureInCelsius": 5,
+      "MinTemperatureInFarenheit": 41,
+      "MaxSnowfall": 0,
+      "MinSnowfall": 0
+    }
+  ]
+}
